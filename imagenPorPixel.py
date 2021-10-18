@@ -1,4 +1,4 @@
-#importar la libreria opencv y la libreria math, para el uso del redondeo para abajo que servirá más adelante
+#importar la libreria opencv y la libreria math, la libreria tkinter es para el uso del apartado filedialog que nos sirve para seleccionar el archivo y guardar su ubicación
 import cv2, math, tkinter, os
 from tkinter import filedialog
 
